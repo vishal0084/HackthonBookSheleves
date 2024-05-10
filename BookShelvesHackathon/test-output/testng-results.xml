@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-08T17:45:56 IST" name="Suite" finished-at="2024-05-08T17:52:26 IST" duration-ms="390210">
+    <groups>
+    </groups>
+    <test started-at="2024-05-08T17:45:56 IST" name="Test" finished-at="2024-05-08T17:49:25 IST" duration-ms="209369">
+      <class name="testCases.TC002_CollectionPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC002_CollectionPage@24569dba]" started-at="2024-05-08T17:46:32 IST" name="setup" finished-at="2024-05-08T17:46:37 IST" duration-ms="5132" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validationOnCollections()[pri:1, instance:testCases.TC002_CollectionPage@24569dba]" started-at="2024-05-08T17:46:37 IST" name="validationOnCollections" finished-at="2024-05-08T17:47:50 IST" duration-ms="73029" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationOnCollections -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_CollectionPage@24569dba]" started-at="2024-05-08T17:47:50 IST" name="tearDown" finished-at="2024-05-08T17:47:52 IST" duration-ms="1299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_CollectionPage -->
+      <class name="testCases.TC003_GiftCard">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC003_GiftCard@5ddeb7cb]" started-at="2024-05-08T17:47:52 IST" name="setup" finished-at="2024-05-08T17:47:57 IST" duration-ms="5015" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateGiftCard()[pri:1, instance:testCases.TC003_GiftCard@5ddeb7cb]" started-at="2024-05-08T17:47:57 IST" name="validateGiftCard" finished-at="2024-05-08T17:49:23 IST" duration-ms="86698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_GiftCard@5ddeb7cb]" started-at="2024-05-08T17:49:24 IST" name="tearDown" finished-at="2024-05-08T17:49:25 IST" duration-ms="1225" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC003_GiftCard -->
+      <class name="testCases.TC001__HomePage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC001__HomePage@221a3fa4]" started-at="2024-05-08T17:45:57 IST" name="setup" finished-at="2024-05-08T17:46:08 IST" duration-ms="11332" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnBookShelves()[pri:1, instance:testCases.TC001__HomePage@221a3fa4]" started-at="2024-05-08T17:46:08 IST" name="clickOnBookShelves" finished-at="2024-05-08T17:46:30 IST" duration-ms="21869" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBookShelves -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001__HomePage@221a3fa4]" started-at="2024-05-08T17:46:30 IST" name="tearDown" finished-at="2024-05-08T17:46:32 IST" duration-ms="1291" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001__HomePage -->
+    </test> <!-- Test -->
+    <test started-at="2024-05-08T17:49:26 IST" name="Test1" finished-at="2024-05-08T17:52:26 IST" duration-ms="180319">
+      <class name="testCases.TC002_CollectionPage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC002_CollectionPage@f1da57d]" started-at="2024-05-08T17:49:55 IST" name="setup" finished-at="2024-05-08T17:50:01 IST" duration-ms="5268" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validationOnCollections()[pri:1, instance:testCases.TC002_CollectionPage@f1da57d]" started-at="2024-05-08T17:50:01 IST" name="validationOnCollections" finished-at="2024-05-08T17:51:21 IST" duration-ms="80713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationOnCollections -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC002_CollectionPage@f1da57d]" started-at="2024-05-08T17:51:22 IST" name="tearDown" finished-at="2024-05-08T17:51:23 IST" duration-ms="1345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC002_CollectionPage -->
+      <class name="testCases.TC003_GiftCard">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC003_GiftCard@194fad1]" started-at="2024-05-08T17:51:23 IST" name="setup" finished-at="2024-05-08T17:51:28 IST" duration-ms="5008" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validateGiftCard()[pri:1, instance:testCases.TC003_GiftCard@194fad1]" started-at="2024-05-08T17:51:28 IST" name="validateGiftCard" finished-at="2024-05-08T17:52:24 IST" duration-ms="56311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGiftCard -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC003_GiftCard@194fad1]" started-at="2024-05-08T17:52:25 IST" name="tearDown" finished-at="2024-05-08T17:52:26 IST" duration-ms="1306" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC003_GiftCard -->
+      <class name="testCases.TC001__HomePage">
+        <test-method is-config="true" signature="setup(java.lang.String)[pri:0, instance:testCases.TC001__HomePage@480d3575]" started-at="2024-05-08T17:49:26 IST" name="setup" finished-at="2024-05-08T17:49:31 IST" duration-ms="5772" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickOnBookShelves()[pri:1, instance:testCases.TC001__HomePage@480d3575]" started-at="2024-05-08T17:49:31 IST" name="clickOnBookShelves" finished-at="2024-05-08T17:49:54 IST" duration-ms="22113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnBookShelves -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC001__HomePage@480d3575]" started-at="2024-05-08T17:49:54 IST" name="tearDown" finished-at="2024-05-08T17:49:55 IST" duration-ms="1308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.TC001__HomePage -->
+    </test> <!-- Test1 -->
+  </suite> <!-- Suite -->
+</testng-results>
